@@ -4,7 +4,7 @@ spring:
 enc:
   com:
     oup:
-      cheekysecret: ENC(+ZmxcynQ7bjKMHCm7WUxuSKcc60ut4f0nB/k5nkWjIx+oqNHbijUsaReDgEtMzKe) 
+      cheekysecret: ENC(0qi1DdPSi1w+qllsbntF+koijt4uXa2CVKLe6betV4g3kuNLbTXVTtHVFyfv6ktW) 
       #ENC(Z+ELc+oIPOjfNzzR6vPGLOMz4smDnFO2rh25ZYSzT7mMceBM3AEQ9MvEbBaEId41)
 jasypt:
   encryptor:
