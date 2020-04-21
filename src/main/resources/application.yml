@@ -8,5 +8,5 @@ enc:
       #ENC(Z+ELc+oIPOjfNzzR6vPGLOMz4smDnFO2rh25ZYSzT7mMceBM3AEQ9MvEbBaEId41)
 jasypt:
   encryptor:
-    password: ghosh
+    password: ${JASYPT_SECRET_KEY}
     #${JASYPT_SECRET_KEY}
