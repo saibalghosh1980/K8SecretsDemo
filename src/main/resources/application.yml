@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: K8SecretsDemo
+enc:
+  com:
+    oup:
+      cheekysecret: ENC(+ZmxcynQ7bjKMHCm7WUxuSKcc60ut4f0nB/k5nkWjIx+oqNHbijUsaReDgEtMzKe) 
+      #ENC(Z+ELc+oIPOjfNzzR6vPGLOMz4smDnFO2rh25ZYSzT7mMceBM3AEQ9MvEbBaEId41)
+jasypt:
+  encryptor:
+    password: ghosh
+    #${JASYPT_SECRET_KEY}
